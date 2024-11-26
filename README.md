@@ -28,6 +28,8 @@ Peak Signal-to-Noise Ratio (PSNR): Measures image quality.
 Structural Similarity Index (SSIM): Assesses perceptual quality.
 
 Compression Ratio (CR): Indicates efficiency.
+## Results
 
+![comparision](https://github.com/saiklonarch/Semantic-Communication-for-Images/blob/main/realresults.PNG)
 
 
